@@ -4,9 +4,4 @@ tralalalalal
 
 heiha.
 
-<<<<<<< HEAD
-=======
-Her burde det vært et vers til.
 
-
->>>>>>> parent of d37938d... Fikset problem
